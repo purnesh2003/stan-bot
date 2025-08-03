@@ -1,9 +1,0 @@
-# Virtual Environment
-venv/
-__pycache__/
-
-# Environment variables
-.env
-
-# ChromaDB local data
-chroma_db/
